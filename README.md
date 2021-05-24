@@ -3,4 +3,6 @@
   <head>
     <title>Peña Cubas Luis Fernando</title>
   </head>
-  <body>
+  <header>
+    <b><h1>DESCRIPCIÓN PERSONAL</h1></b>
+    
